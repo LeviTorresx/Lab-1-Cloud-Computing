@@ -80,7 +80,7 @@ export default function Home() {
         >
           <div className="rounded-2xl border border-emerald-400/20 bg-emerald-500/10 px-6 py-4 shadow-lg shadow-emerald-500/5 backdrop-blur-md">
             <p className="text-sm text-emerald-200">
-              Laboratorio listo para comenzar
+              Laboratorio CC listo para comenzar
             </p>
           </div>
         </div>
